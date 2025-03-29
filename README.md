@@ -72,6 +72,7 @@ Software developer with expertise across multiple programming languages and tech
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/aayushswami123/YOUR_REPOSITORY_NAME" alt="Visitor Count" /></p>
+[Visitor Count](https://visitcount.itsvg.in/api?id=aayushswami123&label=Profile%20Views&color=0&icon=5&pretty=true)
+</p>
 
 <!-- Feel free to reach out for collaborations or just a chat! -->
