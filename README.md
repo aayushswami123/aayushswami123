@@ -72,7 +72,7 @@ Software developer with expertise across multiple programming languages and tech
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=aayushswami123&icon=0&color=0" alt="Visitor Count" />
+![Profile Views](https://komarev.com/ghpvc/?username=aayushswami123&color=blue)
 </p>
 
 <!-- Feel free to reach out for collaborations or just a chat! -->
