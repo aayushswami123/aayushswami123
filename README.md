@@ -71,8 +71,15 @@ Software developer with expertise across multiple programming languages and tech
 
 ---
 
-<p align="center">
-[Visitor Count](https://visitcount.itsvg.in/api?id=aayushswami123&label=Profile%20Views&color=0&icon=5&pretty=true)
-</p>
+<p>Visitor Count: <span id="count">Loading...</span></p>
+
+<script>
+  fetch('https://api.countapi.xyz/hit/aayushswami123/portfolio')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('count').innerText = data.value;
+    });
+</script>
+
 
 <!-- Feel free to reach out for collaborations or just a chat! -->
