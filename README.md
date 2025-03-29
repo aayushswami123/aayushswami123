@@ -65,16 +65,6 @@ Software developer with expertise across multiple programming languages and tech
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushswami123&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-## 🚀 Featured Projects
-<!-- Add 2-3 of your best projects here -->
-- **[Project Name]** - Brief description of the project and technologies used.
-- **[Project Name]** - Brief description of the project and technologies used.
-- **[Project Name]** - Brief description of the project and technologies used.
-
-## 📝 Latest Blog Posts
-<!-- Add your latest blog posts or link to your blog -->
-- **[Blog Post Title]** - Brief description
-- **[Blog Post Title]** - Brief description
 
 ## 💭 Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
