@@ -65,7 +65,6 @@ Software developer with expertise across multiple programming languages and tech
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushswami123&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
-
 ## 💭 Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -80,6 +79,5 @@ Software developer with expertise across multiple programming languages and tech
       document.getElementById('count').innerText = data.value;
     });
 </script>
-
 
 <!-- Feel free to reach out for collaborations or just a chat! -->
