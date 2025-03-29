@@ -72,7 +72,6 @@ Software developer with expertise across multiple programming languages and tech
 ---
 
 <p align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=aayushswami123&color=blue)
-</p>
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/aayushswami123/YOUR_REPOSITORY_NAME" alt="Visitor Count" /></p>
 
 <!-- Feel free to reach out for collaborations or just a chat! -->
