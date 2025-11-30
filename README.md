@@ -49,21 +49,21 @@ I love working across:
 ### 🔹 **Auto Cover-Letter Generator + Auto-Apply Bot**
 > Converts job descriptions → ATS-optimized cover letters & automates Greenhouse applications  
 **Tech:** Python, Playwright, LLMs, Cloudflare Workers AI, Durable Objects  
-🔗 *Repo:* *(Add your repo)*
+
 
 ---
 
 ### 🔹 **Odyssey Rover Control & Telemetry Dashboard**
 > Real-time visualization, LiDAR + ultrasonic sensors, LLM-based diagnostics  
 **Tech:** TypeScript, Python, Raspberry Pi, MQTT/WebSockets, Grafana, InfluxDB  
-🔗 *Repo:* *(Add your repo)*
+
 
 ---
 
 ### 🔹 **Battery Health Prediction (GPR + EIS Modeling)**
 > Achieved **0.94 R²** using Gaussian Process Regression for battery forecasting  
 **Tech:** Python, Scikit-learn, Matplotlib, NumPy  
-🔗 *Repo:* *(Add your repo)*
+
 
 ---
 
