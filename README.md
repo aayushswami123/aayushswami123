@@ -42,7 +42,6 @@ I love working across:
 ### 🔹 **AI-Powered Trading Agent — FastAPI + PostgreSQL + BLIP-2**
 > Real-time trading predictions, GPU-accelerated pipelines, multimodal chart analysis  
 **Tech:** Python, FastAPI, PyTorch, BLIP-2, PostgreSQL, Docker, Cloudflare Workers  
-🔗 *Repo:* https://github.com/aayushswami123 *(add actual link)*
 
 ---
 
