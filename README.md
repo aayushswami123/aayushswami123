@@ -21,16 +21,6 @@ CS junior at **Arizona State University**, doing ML research at Rolston Lab and 
 
 ---
 
-## currently building
-
-- **[Odyssey Rover Dashboard](https://github.com/aayushswami123/rover-dashboard)** — real-time telemetry, sensor fusion, LiDAR/ultrasonic diagnostics
-- **AI trading agent** — GPU-accelerated pipeline, multimodal chart analysis with BLIP-2
-- **Auto-apply bot** — turns job descriptions into ATS-optimized cover letters and automates applications
-
-*(swap in real repo links here for each — if a project isn't public yet, leave it out of this list until it is)*
-
----
-
 ## experience
 
 **ML Researcher, Rolston Lab (ASU)**
